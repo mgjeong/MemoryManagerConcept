@@ -5,7 +5,7 @@ module k8s.io/code-generator
 go 1.12
 
 require (
-	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/go-openapi/spec v0.19.2 // indirect
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
 	github.com/json-iterator/go v1.1.7 // indirect
